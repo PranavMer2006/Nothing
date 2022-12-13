@@ -1,53 +1,5 @@
 
 
-
-.col1{
-  width: 70%;
-  margin-left: 35px;
-}
-.col2{
-  width: 110%;
-  margin-right: 40px;
-}
-.col3{
-  width: 75%;
-  float: right;
-  margin-right: 35px;
-}
-
-
-
-.col4{
-  width: 90%;
-  margin-left: 35px;
-}
-.col5{
-  width: 70%;
-  margin-left: 69px;
-}
-.col6{
-  width: 85%;
-  float: right;
-  margin-right: 35px;
-}
-
-#tweet{
-  font: right;
-}
-
-@media only screen and (max-width:800px){
-
-    .col1, .col2{
-      width: 250%;
-    }
-
-    .col2{
-      margin-top: 600px;
-      margin-left: -150px;
-    }
-
-}
-
 .col-sm-8 col-xs-12{
   border: solid;
 }
@@ -209,6 +161,9 @@ a{
 }
 
 
+  #hethlu{
+    margin-top: 0px;
+  }
 
 
 
