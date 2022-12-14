@@ -1,4 +1,12 @@
 
+@media screen and (max-width: 800px){
+.hideimg1{
+	display: none;
+}
+}
+
+
+
 		.item{
 			left: 0;
 			top: 0;
