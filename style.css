@@ -1,9 +1,23 @@
 
 @media screen and (max-width: 800px){
-.hideimg1{
-	display: none;
+.modiji{
+	width: 100%;
 }
+
+.logo2{
+	width: 200%;
 }
+
+.tweeter{
+	margin-left: -170px;
+}
+
+.widget-body{
+	width: 200px;
+}
+
+}
+
 
 
 
